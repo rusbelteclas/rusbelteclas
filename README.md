@@ -1,6 +1,6 @@
 ## Hola, Soy Rusbel 👋
 
-**Estudiante de Ingeniería en Tecnologías de la Información | Desarrollador Web y Móvil**
+**Estudiante de Ingeniería en Desarrollo Gestion de Software**
 
 Soy un estudiante de 10º cuatrimestre con pasión por la creación de soluciones tecnológicas. Mi enfoque está en **desarrollo web y móvil**, y me gusta trabajar con tecnologías como **JavaScript**, **React.js**, y **Node.js**. Siempre en busca de nuevos desafíos que me permitan aprender y crecer.
 
@@ -36,7 +36,7 @@ Soy un estudiante de 10º cuatrimestre con pasión por la creación de solucione
 
 ---
 
-### ⚡ Fun Fact:
+### ⚡:
 
 - Me encanta aprender sobre nuevas tecnologías y colaborar en proyectos innovadores. ¡Siempre estoy buscando oportunidades para crecer!
 
