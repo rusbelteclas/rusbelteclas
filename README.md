@@ -31,7 +31,7 @@ Soy un estudiante de 10º cuatrimestre con pasión por la creación de solucione
 
 ### 📫 Conéctemos:
 
-- [LinkedIn](https://www.linkedin.com/in/rusbelteclas)
+- [Portfoliio](https://portfolio-rusbel.vercel.app/)
 📧 **Gmail**: [rusbelteclas559@gmail.com](mailto:rusbelteclas559@gmail.com)
 
 ---
