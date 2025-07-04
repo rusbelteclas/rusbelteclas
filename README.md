@@ -1,7 +1,7 @@
 <h1 align="center">💻 Rusbel Salinas | Portfolio Profesional</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=22D3EE&width=500&lines=¡Hola!+Soy+Rusbel+Salinas;Desarrollador+Full+Stack;Innovador+Digital" alt="Título animado" />
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!%2C+Soy+Rusbel+Salinas%2C+Desarrollador+Junior)](https://git.io/typing-svg)
 </div>
 
 ---
