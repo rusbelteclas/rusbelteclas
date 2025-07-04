@@ -80,7 +80,7 @@ Desarrollador de software junior con experiencia en aplicaciones web y moviles. 
 ### 📬 Contacto
 
 <p align="center">
-  <a href="https://rusbel-salinas.vercel.app">
+  <a href="https://portfolio-rusbel-salinas.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/rusbel-salinas">
