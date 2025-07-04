@@ -1,7 +1,7 @@
 <h1 align="center">💻 Rusbel Salinas | Portfolio Profesional</h1>
 
 <div align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!%2C+Soy+Rusbel+Salinas%2C+Desarrollador+Junior)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!%2C+Soy+Rusbel+Salinas%2C+Desarrollador+Junior" alt="Typing SVG" /></a>
 </div>
 
 ---
