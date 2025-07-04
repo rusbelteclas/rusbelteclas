@@ -1,80 +1,98 @@
-<h1 align="center">💻 Rusbel Salinas | Portfolio Profesional</h1>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!%2C+Soy+Desarrollador+Junior" alt="Typing SVG" /></a>
-</div>
-
----
-
-### 🎓 Sobre Mí
-Estudiante de 10° cuatrimestre de Ingeniería en Desarrollo y Gestión de Software. Apasionado por crear soluciones digitales innovadoras con enfoque en experiencia de usuario y arquitecturas escalables.
-
----
-
-### 🛠️ Tecnologías Principales
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Rusbel Salinas | Desarrollador Fullstack
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-</p>
-
----
-
-### 🚀 Proyectos Destacados
-
-<details>
-  <summary><strong>📱 Capsule Care (Click para detalles)</strong></summary>
-
-  <br/>
-
-  ![Capsule Care Preview](https://via.placeholder.com/800x400.png?text=Capsule+Care+Preview)
-
-  **Tecnologías:**
-  - React Native + Expo  
-  - Firebase Authentication  
-  - Cloud Firestore  
-  - Notificaciones Push
-
-  **Características:**
-  - ✔ Gestión inteligente de medicamentos  
-  - ✔ Recordatorios personalizados  
-  - ✔ Historial médico digital
-
-  [![Repositorio GitHub](https://img.shields.io/badge/-Repositorio_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tu-repo)
-  [![Demo Vivo](https://img.shields.io/badge/-Demo_Vivo-000000?style=for-the-badge&logo=vercel)](https://demo.capsule-care.com)
-
-</details>
-
----
-
-### 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusbelteclas&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de Rusbel" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusbelteclas&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
-
-### 🌐 Conectemos
-
-<p align="center">
-  <a href="https://portfolio-rusbel-salinas.vercel.app/">
-    <img src="https://img.shields.io/badge/-Mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Transformando+código+en+soluciones+reales;Apasionado+por+la+arquitectura+de+software;Estudiante+de+Ingeniería+en+Software" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/rusbel-salinas">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+---
+
+### 👨‍💻 Perfil Profesional
+
+Ingeniero en Desarrollo de Software en formación (10° cuatrimestre) con experiencia práctica en desarrollo de aplicaciones web y móviles. Especial interés en:
+
+- 🔍 Resolución creativa de problemas
+- 🎨 UX/UI intuitivas
+- 🚀 Arquitecturas escalables
+- 🔄 Metodologías ágiles
+
+---
+
+### 🛠 Stack Tecnológico
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+  
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native" />
+</p>
+
+---
+
+### 🏆 Proyectos Destacados
+
+#### 💊 Capsule Care - Gestión Inteligente de Medicamentos
+[![Live Demo](https://img.shields.io/badge/-DEMO_LIVE-000?style=for-the-badge&logo=vercel)](https://capsule-care-demo.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/-REPOSITORIO-181717?style=for-the-badge&logo=github)](https://github.com/rusbelteclas/capsule-care)
+
+![Capsule Care Mockup](https://i.imgur.com/JqkXaZl.png)
+
+**Stack:** React Native | Firebase | Node.js | MongoDB  
+**Logros:**
+- Implementación de notificaciones push personalizadas
+- Sistema de recordatorios inteligentes basado en IA
+- Integración con APIs de salud (FHIR)
+
+---
+
+### 📈 Mis Métricas de Código
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rusbelteclas&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rusbelteclas&theme=nightowl&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusbelteclas&layout=compact&theme=nightowl&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 📬 Contacto
+
+<p align="center">
+  <a href="https://rusbel-salinas.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/rusbel-salinas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rusbelteclas559@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/rusbel_dev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&fontSize=20&fontAlignY=70" />
 </div>
