@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"/> ¡Hola! Soy <strong>Rusbel Salinas</strong>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150px"/> ¡Hola! Soy <strong>Rusbel Salinas</strong>
 </h1>
 <h3 align="center">
   🚀 Desarrollador FullStack | Especialista en React & Node.js
