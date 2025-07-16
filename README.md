@@ -25,7 +25,7 @@
 ## 👨‍💻 Sobre Mí
 
 <p align="center">
-  <img align="right" width="300" src="https://i.imgur.com/6H7HjQZ.gif" alt="Coding" />
+  <img align="right" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" />
 </p>
 
 Soy un **Desarrollador FullStack** con experiencia en construir aplicaciones web y móviles escalables. Mi enfoque combina:
