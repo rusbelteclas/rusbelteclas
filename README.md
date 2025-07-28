@@ -1,9 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ¡Hola! Soy <strong>Rusbel Salinas</strong>
 </h1>
-<h3 align="center">
-  🚀 Desarrollador FullStack | Especialista en React & Node.js
-</h3>
 
 <p align="center">
   <a href="https://portfolio-rusbel-salinas.vercel.app/">
