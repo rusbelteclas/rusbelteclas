@@ -27,8 +27,8 @@
   <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" />
 </p>
 
-Estudiante de Ingeniería en Desarrollo de Software. Actualmente me especializo en tecnologías como React, Node.js y Firebase.  
-Me gusta resolver problemas reales mediante aplicaciones funcionales y bien diseñadas. Busco seguir creciendo en proyectos colaborativos y de alto impacto.
+Estudiante de Ingeniería y creador de proyectos web y móviles. Disfruto construir, resolver problemas y aprender cada día 🚀  
+Actualmente enfocado en el stack JavaScript/TypeScript, con experiencia en React, Next.js y Node.js.
 
 ---
 
@@ -76,10 +76,10 @@ Me gusta resolver problemas reales mediante aplicaciones funcionales y bien dise
 
 App móvil para ayudar a gestionar medicamentos de forma eficiente:
 
-- 🔔 Notificaciones programadas
-- 🤖 APIs médicas (FHIR)
-- 📊 Panel de seguimiento
-- 🔐 Autenticación de usuarios
+- 🔔 Notificaciones programadas  
+- 🤖 APIs médicas (FHIR)  
+- 📊 Panel de seguimiento  
+- 🔐 Autenticación de usuarios  
 
 **Stack usado:** React Native · Firebase · Node.js · MongoDB
 
