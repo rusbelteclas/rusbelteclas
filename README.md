@@ -26,6 +26,8 @@
 </p>
 
 Estudiante de ingeniería y desarrollador en formación. Me gusta crear proyectos web y móviles mientras aprendo nuevas tecnologías y comparto lo que sé 🚀
+
+
 ---
 
 ## 🛠 Stack Tecnológico
