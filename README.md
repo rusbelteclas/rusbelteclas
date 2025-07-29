@@ -27,7 +27,7 @@
   <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" />
 </p>
 
-Egresado de la Ingeniería en Desarrollo y Gestión de Software, con experiencia en desarrollo web utilizando tecnologías como React, Node.js y Firebase. Mi objetivo es formar parte de un equipo de desarrollo donde pueda aportar mis conocimientos, enfrentar nuevos desafíos tecnológicos y seguir creciendo profesionalmente.
+Egresado de la Ingeniería en Desarrollo y Gestión de Software, con experiencia en desarrollo web. Mi objetivo es formar parte de un equipo de desarrollo donde pueda aportar mis conocimientos, enfrentar nuevos desafíos tecnológicos y seguir creciendo profesionalmente.
 
 ---
 
