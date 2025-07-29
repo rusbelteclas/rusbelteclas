@@ -88,7 +88,7 @@ App móvil para ayudar a gestionar medicamentos de forma eficiente:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rusbelteclas&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rusbelteclas&theme=radical&hide_border=true&fire=DD2727" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rusbelteclas&theme=radical&hide_border=true&fire=DD2727" />
 </p>
 
 <p align="center">
