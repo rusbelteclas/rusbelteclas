@@ -81,7 +81,7 @@ App móvil para ayudar a gestionar medicamentos de forma eficiente:
 - 📊 Panel de seguimiento
 - 🔐 Autenticación de usuarios
 
-*Stack usado:* React Native · Firebase · Node.js · MongoDB
+**Stack usado:** React Native · Firebase · Node.js · MongoDB
 
 ---
 
@@ -118,5 +118,5 @@ App móvil para ayudar a gestionar medicamentos de forma eficiente:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rusbelteclas&color=blueviolet&style=flat-square" />
   <p>¡Gracias por visitar mi perfil! 👋</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
 </div>
