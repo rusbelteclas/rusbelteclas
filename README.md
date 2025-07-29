@@ -83,10 +83,6 @@ Aplicación móvil para gestión de medicamentos con:
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusbelteclas&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rusbelteclas&theme=radical&no-frame=true&margin-w=15&row=2&column=4" />
-</p>
-
 ---
 
 ## 📫 Contacto
