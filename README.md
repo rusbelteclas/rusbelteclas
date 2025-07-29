@@ -25,15 +25,7 @@
   <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" />
 </p>
 
-Soy un *Desarrollador FullStack* con experiencia en construir aplicaciones web y móviles escalables. Mi enfoque combina:
-
-- 🧩 Soluciones técnicas robustas
-- 🎨 Interfaces intuitivas y accesibles
-- ⚡ Optimización de rendimiento
-- 🔐 Buenas prácticas de seguridad
-
-Actualmente enfocado en el ecosistema JavaScript/TypeScript, con especialización en *React, Next.js y Node.js*. Apasionado por aprender nuevas tecnologías y compartir conocimiento.
-
+Estudiante de ingeniería y desarrollador en formación. Me gusta crear proyectos web y móviles mientras aprendo nuevas tecnologías y comparto lo que sé 🚀
 ---
 
 ## 🛠 Stack Tecnológico
